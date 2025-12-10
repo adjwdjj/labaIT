@@ -5,7 +5,7 @@
 
 int main()
 {
-    std::cout << "My new feature\n";
+    std::cout << "privet vladelec\n";
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
